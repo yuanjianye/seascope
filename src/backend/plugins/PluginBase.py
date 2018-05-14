@@ -26,6 +26,7 @@ cmd_table_master = [
 	[	'INC',		['&Include/Import',	'Ctrl+8'],	['Find include/import'	]	],
 	[	'---',		[None,				],	None				],
 	[	'QDEF', 	['&Quick Definition',	'Ctrl+]'],	None				],
+	[	'QDEF', 	['&Quick Definition',	    'F1'],	None				],
 	[	'CTREE',	['Call Tr&ee',		'Ctrl+\\'],	['Call tree'		]	],
 	[	'---',		[None,				],	None				],
 	[	'CLGRAPH',  	['Class &Graph',	'Ctrl+:'],	['Class graph'		]	],

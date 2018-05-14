@@ -316,7 +316,7 @@ class EditorBook(QTabWidget):
 		self.is_show_line = False
 		self.is_show_folds = False
 		self.f_text = None
-		self.ev_font = "Monospace,10,-1,5,50,0,0,0,0,0"
+		self.ev_font = "Dejavu Sans Mono,12,-1,5,50,0,0,0,0,0"
 
 	def new_editor_page(self):
 		return EditorPage()
